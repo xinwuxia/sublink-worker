@@ -37,7 +37,7 @@ npm run deploy
 - Hysteria2
 - Trojan
 - TUIC
-
+https://github.com/xinwuxia/sublink-worker
 ### 核心功能
 - 支持导入 Base64 的 http/https 订阅链接以及多种协议的分享URL
 - 纯JavaScript + Cloudflare Worker实现，一键部署，开箱即用
